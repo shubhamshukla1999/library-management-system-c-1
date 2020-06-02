@@ -1,0 +1,18 @@
+This file contains the step by step installation process.
+
+System Requirement:-
+
+1.Any linux operating system preferably Ubuntu 18.04 (tested only on ubuntu 18.04 by me itself).
+2.Gcc compiler should be installed onto the system which every developer probably must have (for editing the source code).(developers only)
+3.Any text editor (for editing source code).(developers only)
+
+Installation Steps:-
+
+1.Download or Clone the project repository onto your system.
+2.Now your software is downloaded.
+3.Navigate to the folder with the help of command line.
+4.Change your directory to bin.
+5.Enter this command ./start_page
+6.Your library management system will start on running.
+
+For more information read the README file and for using this project for your purpose read the licence file.
